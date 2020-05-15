@@ -9,7 +9,7 @@ OBS: Não possui controle de estoque.
 Visual Studio 2019
 https://visualstudio.microsoft.com/pt-br/downloads/
 
-.NET Core 3.1 SDK^ (Necessário para o backend)
+* .NET Core 3.1 SDK^ (Necessário para o backend)
 https://dotnet.microsoft.com/download/dotnet-core/3.1
 
 Banco de dados Sql Server (Necessário para o backend)
