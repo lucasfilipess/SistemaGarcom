@@ -353,3 +353,4 @@ W:\lucas\Projetos\.Net\Rumo\obj\Debug\netcoreapp3.1\Rumo.RazorTargetAssemblyInfo
 W:\lucas\Projetos\.Net\Rumo\obj\Debug\netcoreapp3.1\Rumo.csproj.CopyComplete
 W:\lucas\Projetos\.Net\Rumo\obj\Debug\netcoreapp3.1\Rumo.dll
 W:\lucas\Projetos\.Net\Rumo\obj\Debug\netcoreapp3.1\Rumo.pdb
+W:\lucas\Projetos\.Net\Rumo\obj\Debug\netcoreapp3.1\Rumo.csprojAssemblyReference.cache
