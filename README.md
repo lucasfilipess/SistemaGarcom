@@ -28,7 +28,7 @@ https://nodejs.org/pt-br/download/
 
 - Backend Web Api Asp .Net Core que será "consumida" pelo frontend. No Visual Studio Adicione os pacotes:
 
-Microsoft.AspNetCoreMVC.Cors
+-- Microsoft.AspNetCoreMVC.Cors
 
 Microsoft.AspNetCoreMVC.NewtonsoftJon
 
