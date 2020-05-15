@@ -22,11 +22,11 @@ https://www.microsoft.com/pt-br/download/details.aspx?id=42299
 https://nodejs.org/pt-br/download/
 
 #### É necessário clonar o projeto do GitHub em um diretório de sua preferência:
-  git clone https://github.com/Lucas-FilipeSS/SistemaGarcom
+- git clone https://github.com/Lucas-FilipeSS/SistemaGarcom
 
-##### O projeto esta dividido em 2 níveis, backend (Rumo), e o frontend (views).
+#### O projeto esta dividido em 2 níveis, backend (Rumo), e o frontend (views).
 
-##### Backend Web Api Asp .Net Core que será "consumida" pelo frontend. No Visual Studio Adicione os pacotes:
+#### Backend Web Api Asp .Net Core que será "consumida" pelo frontend. No Visual Studio Adicione os pacotes:
 
 - Microsoft.AspNetCoreMVC.Cors
 
@@ -42,7 +42,7 @@ https://nodejs.org/pt-br/download/
 - Update-Database InitialCreate, para "gerar" o banco de dados.
 - Por padrão a string de conexão será:"Data Source=.\\SQLEXPRESS;Initial Catalog=rumo_db;Integrated Security=true;" e está disponível no appsettings.json, faça as alterações se necessário. Inicie a aplicação que deve estar disponível em: 'https://localhost:44392'.
 
-##### No frontend:
+#### No frontend:
 - Utilizando o gerenciador de pacotes yarn ou npm no terminal do diretório views execute "npm install" ou
   "yarn" para instalar os pacotes necessários.
 - Para iniciar a aplicação o script de "start" está disponível como "npm start" ou
